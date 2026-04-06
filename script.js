@@ -14,17 +14,17 @@ const messages = [
 
 // 👉 REPLACE THESE WITH YOUR REAL IMAGES
 const images = [
-  "C:\\00101\\ChatGPT Image Apr 5, 2026, 10_29_32 PM.png",
-  "C:\\00101\\ChatGPT Image Apr 5, 2026, 10_37_00 PM.png",
-  "C:\\00101\\Gemini_Generated_Image_2c71vt2c71vt2c71.png",
-  "C:\\000\\Gemini_Generated_Image_7sc1q87sc1q87sc1.png",
-   "C:\\000\\Gemini_Generated_Image_589s2m589s2m589s.png",
-   "C:\\000\\Gemini_Generated_Image_hh5uh3hh5uh3hh5u.png",
-    "C:\\000\\Gemini_Generated_Image_wodc17wodc17wodc.png",
-   "C:\\000\\Gemini_Generated_Image_5mpblk5mpblk5mpb.png",
-    "C:\\00101\\Gemini_Generated_Image_5u6ppe5u6ppe5u6p.png",
-    "C:\\000\\Gemini_Generated_Image_6xb3506xb3506xb3.png",
-    "C:\\000\\Gemini_Generated_Image_7pg9cj7pg9cj7pg9.png"
+  "C:\Users\HP\Documents\hehe\Gemini_Generated_Image_2c71vt2c71vt2c71.png",
+  "C:\Users\HP\Documents\hehe\ChatGPT Image Apr 5, 2026, 10_29_32 PM.png",
+  "C:\Users\HP\Documents\hehe\Gemini_Generated_Image_wodc17wodc17wodc.png",
+  "C:\Users\HP\Documents\hehe\Gemini_Generated_Image_7sc1q87sc1q87sc1.png",
+  "C:\Users\HP\Documents\hehe\Gemini_Generated_Image_589s2m589s2m589s.png",
+  "C:\Users\HP\Documents\hehe\Gemini_Generated_Image_hh5uh3hh5uh3hh5u.png",
+  "C:\Users\HP\Documents\hehe\ChatGPT Image Apr 5, 2026, 10_37_00 PM.png",
+  "C:\Users\HP\Documents\hehe\Gemini_Generated_Image_5mpblk5mpblk5mpb.png",
+  "C:\Users\HP\Documents\hehe\Gemini_Generated_Image_5u6ppe5u6ppe5u6p.png",
+  "C:\Users\HP\Documents\hehe\Gemini_Generated_Image_6xb3506xb3506xb3.png",
+  "C:\Users\HP\Documents\hehe\Gemini_Generated_Image_7pg9cj7pg9cj7pg9.png"
 ];
 
 let index = 0;
